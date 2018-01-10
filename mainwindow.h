@@ -18,6 +18,9 @@ public:
 private slots:
     void on_findButton_clicked();
 
+
+
+
 private:
     Ui::MainWindow *ui;
     void loadTextFile();
